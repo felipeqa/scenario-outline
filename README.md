@@ -259,6 +259,8 @@ Como podemos ver o Cucumber criar o mesmo modelo que já estamos acostumados a t
 
 Agora que aprendemos um pouco sobre Esquema do Cenário ou Scenario Outline eu me despeço, espero que gostem é que seja útil no seu dia-a-dia.
 
+Mais Informações [Scenario Outline](https://github.com/felipeqa/scenario-outline)
+
 Até o próximo post.
 
 Contato
