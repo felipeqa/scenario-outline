@@ -199,7 +199,7 @@ Exemplos:
 |'admin5'  |'admin5'|
 |'tomsmith'|'SuperSecretPassword!'|
 ````
-Ou seja, para cada linha(exceto a primeira, que vc passa os mesmos valores que passou dentro dos marcadores **<user>** e **<password>** ) o cenário é executado com o valor correspondente.   
+Ou seja, para cada linha(exceto a primeira, que vc passa os mesmos valores que passou dentro dos marcadores **user** e **password** ) o cenário é executado com o valor correspondente.   
 
 E como fica esse step gerado com os marcadores? Boa pergunta neh?
 ````
